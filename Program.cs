@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CA201201
+namespace CA201201 //London2012.txt, london.pdf
 {
     struct Sportag
     {
